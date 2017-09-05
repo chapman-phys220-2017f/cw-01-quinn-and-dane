@@ -1,6 +1,6 @@
 # PHYS220 CW 1
 
-**Author(s):** _\<your name(s)\>_
+Quinn and Dain
 
 ## Specification
 
@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 With your group, analyze in this section what you found useful about this assignment in your own words. Include any questions or comments that you may have for the instructor.
 
-**CHANGEME**
+I find it interesting how bash scripts are literally a list of terminal commands making it very easy to use.  I do not totally understand the purpose of the "do" command but the rest makes sense.
 
 ## Honor Pledge
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is our own with only the following
 
 Signed,
 
-**YOURNAME**
+Quinn Gates
