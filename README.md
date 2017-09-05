@@ -18,6 +18,7 @@ With your group, analyze in this section what you found useful about this assign
 
 I find it interesting how bash scripts are literally a list of terminal commands making it very easy to use.  I do not totally understand the purpose of the "do" command but the rest makes sense.
 
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is our own with only the following exceptions:
@@ -27,4 +28,4 @@ I pledge that all the work in this repository is our own with only the following
 
 Signed,
 
-Quinn Gates
+Quinn Gates and Dain Miller
